@@ -1,0 +1,73 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid;
+    background-color: blue;
+   
+}
+.ele{
+    margin: 0px 7px 0px 7px;
+    color: white;
+
+    
+}
+.ele1{
+    display: flex;
+    padding: 23px;
+    justify-content: left;
+   
+}
+.heading1{
+    display: flex;
+    justify-content: center;
+    
+    color: white;
+}
+.logo1{
+    display: flex;
+    justify-content: right;
+   
+}
+.container{
+    display: flex;
+    
+    
+    
+}
+.section1{
+background-color: rgb(99, 179, 211);
+width: 450px;
+height: 560px;
+}
+.section2{
+  padding: 10px;
+   min-width: 0vw;
+
+}
+.section4{
+    display: flex;
+    justify-content: space-between;
+}
+.section5{
+    border: .5px solid;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+}
+img{
+    height: 100px;
+}
+
+.image{
+    text-align: center;
+}
+.footer{
+    background-color: blue;
+   
+    color: white;
+    display: flex;
+     margin-top: -8px;
+     justify-content: space-evenly;
+    
+}
